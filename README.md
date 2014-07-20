@@ -1,4 +1,6 @@
 sailsjs-sample-app
-==================
+=================
 
-sailsjs sample code
+npm install
+
+point browser to http://{host}:{port}
